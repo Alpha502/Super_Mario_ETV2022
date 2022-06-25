@@ -1,0 +1,1603 @@
+fileFormatVersion: 2
+guid: 5e6f5e4df8dfe4140887af9e4dcc2480
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1809398297266725477
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_0
+  - first:
+      213: 1287010066567023378
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_1
+  - first:
+      213: 5270886821525689168
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_2
+  - first:
+      213: 3723598599840567449
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_3
+  - first:
+      213: -5383843636948761850
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_4
+  - first:
+      213: 6921631568951922327
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_5
+  - first:
+      213: 264964199517262092
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_6
+  - first:
+      213: 4764789548345416937
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_7
+  - first:
+      213: -7206850686064056186
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_8
+  - first:
+      213: 1286622925349915096
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_9
+  - first:
+      213: 623415438930953511
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_10
+  - first:
+      213: 2612144849381361859
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_11
+  - first:
+      213: -2080187270085424345
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_12
+  - first:
+      213: -6973345465211458890
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_13
+  - first:
+      213: 585688976797545509
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_14
+  - first:
+      213: -5917234757568208495
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_15
+  - first:
+      213: 8013261827296876715
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_16
+  - first:
+      213: -6606380786922258042
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_17
+  - first:
+      213: -1380197206474317645
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_18
+  - first:
+      213: 4877888646913257871
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_19
+  - first:
+      213: -7081529778374034263
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_20
+  - first:
+      213: 1349145423599859690
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_21
+  - first:
+      213: 6742750682993239395
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_22
+  - first:
+      213: -5869689383004911255
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_23
+  - first:
+      213: -2394969361691582301
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_24
+  - first:
+      213: -8642396782121653342
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_25
+  - first:
+      213: -1118263144265101505
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_26
+  - first:
+      213: 6751748575438753954
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_27
+  - first:
+      213: 1257167657364487519
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_28
+  - first:
+      213: 3430765436588425005
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_29
+  - first:
+      213: -7265915283826586019
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_30
+  - first:
+      213: -7250472294218246969
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_31
+  - first:
+      213: 647146506046519282
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_32
+  - first:
+      213: 7561660398867898177
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_33
+  - first:
+      213: -8604675037557630515
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_34
+  - first:
+      213: 1008136879055675726
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_35
+  - first:
+      213: -4307112161911225491
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_36
+  - first:
+      213: -8920792789843827363
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_37
+  - first:
+      213: 6807713988087755750
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_38
+  - first:
+      213: -2716024852137341068
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_39
+  - first:
+      213: -8120687900030324614
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_40
+  - first:
+      213: -5492275771099571306
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_41
+  - first:
+      213: 744024404992606542
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_42
+  - first:
+      213: 5090711843562937025
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_43
+  - first:
+      213: -5318215785098285059
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_44
+  - first:
+      213: -4833870438477493967
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_45
+  - first:
+      213: -2049667457164057073
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_46
+  - first:
+      213: 461130380592792413
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_47
+  - first:
+      213: -2431983298429785651
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_48
+  - first:
+      213: 6795575272147145097
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_49
+  - first:
+      213: 8598925809203485675
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_50
+  - first:
+      213: 304256597771288076
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_51
+  - first:
+      213: -6178993965909400817
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_52
+  - first:
+      213: 6246685529860904815
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_53
+  - first:
+      213: 4739509246285354635
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_54
+  - first:
+      213: 4266434831029266700
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_55
+  - first:
+      213: 859836346502230389
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_56
+  - first:
+      213: -3240973124557932745
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_57
+  - first:
+      213: 4140117861214697275
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_58
+  - first:
+      213: 7123731864313092546
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_59
+  - first:
+      213: -4696538207047776169
+    second: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_60
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_0
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 336
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d5832d5d9b3e6e0800000000000000
+      internalID: -1809398297266725477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 288
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b441036d06cd110800000000000000
+      internalID: 1287010066567023378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 240
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053935843a3f52940800000000000000
+      internalID: 5270886821525689168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 192
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99093a5b231eca330800000000000000
+      internalID: 3723598599840567449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 352
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6030c6dacbeb845b0800000000000000
+      internalID: -5383843636948761850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_5
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 352
+        width: 14
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e42855d339e0060800000000000000
+      internalID: 6921631568951922327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_6
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 352
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c011c6e19875da300800000000000000
+      internalID: 264964199517262092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 353
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec5f9a69deef1240800000000000000
+      internalID: 4764789548345416937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 16
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6882fdb0c7f1cfb90800000000000000
+      internalID: -7206850686064056186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 352
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d90b59dbb00bd110800000000000000
+      internalID: 1286622925349915096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_10
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 336
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72549f8e901d6a800800000000000000
+      internalID: 623415438930953511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_11
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 336
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c80e3996e3304420800000000000000
+      internalID: 2612144849381361859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_12
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 336
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72bc44cf2b0b123e0800000000000000
+      internalID: -2080187270085424345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 336
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba6df9ee33b93f90800000000000000
+      internalID: -6973345465211458890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_14
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 304
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52431e27509c02800800000000000000
+      internalID: 585688976797545509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_15
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 304
+        width: 14
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1916d8eb652c1eda0800000000000000
+      internalID: -5917234757568208495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 304
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba85a340d23d43f60800000000000000
+      internalID: 8013261827296876715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_17
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 305
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68188882dab6154a0800000000000000
+      internalID: -6606380786922258042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_18
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 16
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0ac1c04fd88dce0800000000000000
+      internalID: -1380197206474317645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_19
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 304
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81fc2551edb1b340800000000000000
+      internalID: 4877888646913257871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_20
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac3aa5af2a59bd90800000000000000
+      internalID: -7081529778374034263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_21
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 288
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7730c5d9029b210800000000000000
+      internalID: 1349145423599859690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 288
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365a5d48500139d50800000000000000
+      internalID: 6742750682993239395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 288
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9694c18ea9caa8ea0800000000000000
+      internalID: -5869689383004911255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_24
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 256
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0ed6cfd0c53ced0800000000000000
+      internalID: -2394969361691582301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_25
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 256
+        width: 14
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2abe8a18ae9001880800000000000000
+      internalID: -8642396782121653342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_26
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3fcaa858912b70f0800000000000000
+      internalID: -1118263144265101505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 257
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0d6cb9e8703bd50800000000000000
+      internalID: 6751748575438753954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 256
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5df158d25b527110800000000000000
+      internalID: 1257167657364487519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 16
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f7a83dcf68c9f20800000000000000
+      internalID: 3430765436588425005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_30
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 240
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e4f6bbb884a2b90800000000000000
+      internalID: -7265915283826586019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_31
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 240
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c45f41fcd5216b90800000000000000
+      internalID: -7250472294218246969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 240
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7b98a81502bf800800000000000000
+      internalID: 647146506046519282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_33
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 240
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fd8a2c11a60f860800000000000000
+      internalID: 7561660398867898177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 208
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9d4b294ad069880800000000000000
+      internalID: -8604675037557630515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_35
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 208
+        width: 14
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41a511762f9dfd00800000000000000
+      internalID: 1008136879055675726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_36
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63448d0f401a34c0800000000000000
+      internalID: -4307112161911225491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_37
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 209
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d552e76d83af23480800000000000000
+      internalID: -8920792789843827363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_38
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 208
+        width: 16
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3bd68adcbd97e50800000000000000
+      internalID: 6807713988087755750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 208
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f883f79cdbe4ad0800000000000000
+      internalID: -2716024852137341068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_40
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 192
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7031e251658d4f80800000000000000
+      internalID: -8120687900030324614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_41
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 192
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b1027194487c3b0800000000000000
+      internalID: -5492275771099571306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_42
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 192
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e414ecb114e435a00800000000000000
+      internalID: 744024404992606542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca51713377d5a640800000000000000
+      internalID: 5090711843562937025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 448
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff675aabe6e136b0800000000000000
+      internalID: -5318215785098285059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_45
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 448
+        width: 13
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13989487274aaecb0800000000000000
+      internalID: -4833870438477493967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 448
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06ee0cae4e1e83e0800000000000000
+      internalID: -2049667457164057073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53cf5253a3466600800000000000000
+      internalID: 461130380592792413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 448
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9e865431cdf3ed0800000000000000
+      internalID: -2431983298429785651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 16
+        height: 22
+      alignment: 9
+      pivot: {x: 0.5, y: 0.36}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98152cc94bbbe4e50800000000000000
+      internalID: 6795575272147145097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_50
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 448
+        width: 16
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb1383e675855770800000000000000
+      internalID: 8598925809203485675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_51
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 448
+        width: 14
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ef9be73cfe83400800000000000000
+      internalID: 304256597771288076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_52
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 447
+        width: 14
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0320b8c9bdcf3aa0800000000000000
+      internalID: -6178993965909400817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_53
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 448
+        width: 14
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f679eee946fa0b650800000000000000
+      internalID: 6246685529860904815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 449
+        width: 15
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86948a6c8e16c140800000000000000
+      internalID: 4739509246285354635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_55
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 448
+        width: 14
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c096ad0dfdb653b30800000000000000
+      internalID: 4266434831029266700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_56
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 449
+        width: 16
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5713c3ef990ceeb00800000000000000
+      internalID: 859836346502230389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 16
+        height: 30
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737f2285d10c503d0800000000000000
+      internalID: -3240973124557932745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_58
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 449
+        width: 16
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37b3fd6247a47930800000000000000
+      internalID: 4140117861214697275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_59
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 15
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c9538f23649cd260800000000000000
+      internalID: 7123731864313092546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 154-1548342_mario-luigi-super-mario-bros-nes-sprite_60
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 448
+        width: 16
+        height: 31
+      alignment: 9
+      pivot: {x: 0.5, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7580ede426b82deb0800000000000000
+      internalID: -4696538207047776169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

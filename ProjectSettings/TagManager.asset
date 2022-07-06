@@ -5,17 +5,19 @@ TagManager:
   serializedVersion: 2
   tags:
   - tube
+  - enemies
   - player
+  - void
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Fondo
   - Water
   - UI
   - Ground
-  - 
-  - 
+  - Player
+  - Enemies
   - 
   - 
   - 

@@ -27,10 +27,14 @@ public class PlayerController : MonoBehaviour
     public static bool isStarUp;
     public static bool isFlowerUp;
     private float countdown = 0.5f;
-    private float starCount = 12f;
 
     public Transform fireSpawn;
     public GameObject fireBall;
+
+    //audios
+    public AudioSource jump_audio;
+
+    public AudioSource death_sound;
 
     // Start is called before the first frame update
     void Start()
@@ -38,7 +42,6 @@ public class PlayerController : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         death = false;
         growUp = false;
-        isStarUp = false;
     }
 
     void FixedUpdate()
@@ -69,6 +72,7 @@ public class PlayerController : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded){
             Jump();
+            jump_audio.Play();
         }
 
         if (Input.GetKey(KeyCode.Space) && isJumping)
@@ -99,7 +103,6 @@ public class PlayerController : MonoBehaviour
             {
                 Invoke("Death", 0.5f);
             }
-
             if(transform.position.y < -30)
                 SceneManager.LoadScene("SampleScene");
         }
@@ -135,33 +138,8 @@ public class PlayerController : MonoBehaviour
                 }
             }
         }
-
-
-
-        if (isStarUp)
-        {
-            starCount -= Time.deltaTime * 1;
-
-            if(starCount > 0)
-            {
-                animator.SetBool("IsStarUp", isStarUp);
-
-                if(starCount < 2 && starCount > 0)
-                {
-                    animator.SetBool("IsStarUp", false);
-                    animator.SetBool("StarEnd", true);
-                }
-            }
-            else
-            {
-                animator.SetBool("StarEnd", false);
-                starCount = 12f;
-                isStarUp = false;
-            }
-            
-        }
     }
-/*
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("void"))
@@ -169,7 +147,7 @@ public class PlayerController : MonoBehaviour
             SceneManager.LoadScene("SampleScene");
         }
     }
-*/
+
     void flipPlayer()
     {
         facingRight = !facingRight;

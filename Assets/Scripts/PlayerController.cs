@@ -16,7 +16,6 @@ public class PlayerController : MonoBehaviour
     public Transform feetPos;
     public float checkRadius;
     public LayerMask whatIsGround;
-    private bool isCrouch;
 
     private float jumpTimeCounter;
     public float jumpTime;
@@ -24,17 +23,11 @@ public class PlayerController : MonoBehaviour
 
     public static bool death;
     public static bool growUp;
-    public static bool isStarUp;
-    public static bool isFlowerUp;
     private float countdown = 0.5f;
 
-    public Transform fireSpawn;
-    public GameObject fireBall;
 
     //audios
     public AudioSource jump_audio;
-
-    public AudioSource death_sound;
 
     // Start is called before the first frame update
     void Start()
@@ -46,12 +39,11 @@ public class PlayerController : MonoBehaviour
 
     void FixedUpdate()
     {
-        if (!isCrouch)
-        {
-            horizontalMove = Input.GetAxis("Horizontal");
-            animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
-            rb.velocity = new Vector2(horizontalMove * speed, rb.velocity.y);
-        }
+    
+        horizontalMove = Input.GetAxis("Horizontal");
+        animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
+        rb.velocity = new Vector2(horizontalMove * speed, rb.velocity.y);
+        
     }
 
     // Update is called once per frame
@@ -111,32 +103,6 @@ public class PlayerController : MonoBehaviour
         {
             animator.SetBool("GrowUp", growUp);
 
-            if (Input.GetKey(KeyCode.DownArrow))
-            {
-                isCrouch = true;
-                animator.SetBool("IsCrouch", isCrouch);
-            }
-
-            if (!Input.GetKey(KeyCode.DownArrow) && isGrounded)
-            {
-                isCrouch = false;
-                animator.SetBool("IsCrouch", isCrouch);
-            }
-
-            if (isFlowerUp)
-            {
-                animator.SetBool("IsFlowerUp", isFlowerUp);
-
-                if (Input.GetKeyDown(KeyCode.C))
-                {
-                    animator.SetBool("Shooting", true);
-                    Instantiate(fireBall, fireSpawn.position, fireSpawn.rotation);
-                }
-                else
-                {
-                    animator.SetBool("Shooting", false);
-                }
-            }
         }
     }
 
